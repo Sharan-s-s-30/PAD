@@ -1,0 +1,5 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,yearsOld,monthsOld
+2016-03-30 04:36:23,Top_gepflegter_Land_Rover_zu_verkaufen,privat,Offer,2650,test,cabrio,1999,manuell,0,freelander,150000,Jan,Gasoline,land_rover,Other,2016-03-30 00:00:00,86150,2016-04-01 02:17:44,2016,2016,March,March,17,11
+2016-03-20 12:57:14,Top_gepflegter_Land_Rover,privat,Offer,3550,test,cabrio,1999,manuell,0,freelander,150000,Sep,Gasoline,land_rover,Other,2016-03-20 00:00:00,86150,2016-03-25 12:16:58,2016,2016,March,March,17,3
+2016-04-03 19:39:32,Land_Rover__Cabriolet__schwarz__1.8_HUB,privat,Offer,2200,test,cabrio,1999,manuell,115,Other,125000,Jan,Gasoline,land_rover,Other,2016-04-03 00:00:00,78224,2016-04-05 20:15:43,2016,2016,April,April,17,11
+2016-04-03 08:37:00,Toller_Land_Rover_Freelander,privat,Offer,2300,test,cabrio,1999,manuell,120,freelander,150000,Jan,Gasoline,land_rover,Other,2016-04-03 00:00:00,86405,2016-04-07 10:16:08,2016,2016,April,April,17,11

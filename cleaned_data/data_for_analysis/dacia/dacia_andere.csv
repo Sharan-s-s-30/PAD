@@ -1,0 +1,6 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,yearsOld,monthsOld
+2016-03-12 15:45:12,Dacia_Logan_Pick_Up_1.6_MPI,privat,Offer,4200,control,andere,2009,manuell,84,logan,125000,Apr,Gasoline,dacia,Yes,2016-03-12 00:00:00,73734,2016-03-23 05:46:12,2016,2016,March,March,7,8
+2016-03-27 19:54:17,SANDERO_1.4_MPI_20.200_KM,privat,Offer,5100,control,andere,2009,manuell,75,andere,30000,Nov,Gasoline,dacia,Yes,2016-03-27 00:00:00,12351,2016-03-27 19:54:17,2016,2016,March,March,7,1
+2016-03-28 14:36:18,Dacia_Logan_MCV,privat,Offer,4400,test,andere,2009,manuell,104,logan,90000,Apr,Gasoline,dacia,No,2016-03-28 00:00:00,35083,2016-04-06 18:19:11,2016,2016,March,March,7,8
+2016-03-30 12:58:41,Dacia_Kasten_Logan_van_LKW,privat,Offer,900,control,andere,2008,manuell,64,logan,150000,May,Gasoline,dacia,Other,2016-03-30 00:00:00,53721,2016-04-07 03:45:03,2016,2016,March,March,8,7
+2016-03-22 01:49:34,Dacia_Logan_Pick_up,privat,Offer,3200,test,andere,2010,manuell,86,logan,150000,Oct,Diesel,dacia,Other,2016-03-21 00:00:00,99610,2016-03-23 13:46:53,2016,2016,March,March,6,2

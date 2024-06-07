@@ -1,0 +1,4 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,yearsOld,monthsOld
+2016-04-02 15:57:40,LAND_ROVER_FREELANDER,privat,Offer,2950,control,andere,2003,manuell,111,Other,150000,Jan,,land_rover,No,2016-04-02 00:00:00,45143,2016-04-04 14:16:40,2016,2016,April,April,13,11
+2016-03-28 18:40:45,Land_Rover_diesel_unfal_sachden_109_ps,privat,Offer,1450,control,andere,2003,manuell,82,freelander,150000,Oct,Diesel,land_rover,Yes,2016-03-28 00:00:00,48249,2016-03-28 18:40:45,2016,2016,March,March,13,2
+2016-03-20 13:48:59,Land_rover_santana,privat,Offer,7000,test,andere,1980,manuell,70,serie_2,10000,Mar,Diesel,land_rover,No,2016-03-20 00:00:00,72070,2016-03-20 13:48:59,2016,2016,March,March,36,9

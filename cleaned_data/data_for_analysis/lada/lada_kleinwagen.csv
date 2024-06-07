@@ -1,0 +1,7 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,yearsOld,monthsOld
+2016-04-01 12:46:03,Lada_Kalina,privat,Offer,999,test,kleinwagen,2008,manuell,82,kalina,70000,Mar,Gasoline,lada,No,2016-04-01 00:00:00,14163,2016-04-01 12:46:03,2016,2016,April,April,8,9
+2016-04-04 18:43:09,Lada_Samara_1500_zu_verkaufen___nicht_fahrbereit,privat,Offer,300,test,kleinwagen,1997,manuell,0,samara,50000,Mar,Gasoline,lada,Yes,2016-04-04 00:00:00,40227,2016-04-04 18:43:09,2016,2016,April,April,19,9
+2016-04-03 20:56:50,Lada_Samara_fuer_Bastler_oder_Liebhaber,privat,Offer,250,test,kleinwagen,1997,manuell,70,samara,125000,Mar,Gasoline,lada,Other,2016-04-03 00:00:00,45145,2016-04-03 20:56:50,2016,2016,April,April,19,9
+2016-03-21 15:57:58,Lada_Niva_4*4_nicht_fahrbereit,privat,Offer,800,control,kleinwagen,2000,manuell,59,niva,125000,Nov,Gasoline,lada,Yes,2016-03-21 00:00:00,49497,2016-03-21 15:57:58,2016,2016,March,March,16,1
+2016-04-03 19:49:32,Lada_1119,privat,Offer,3100,test,kleinwagen,2009,manuell,90,andere,50000,Nov,Gasoline,lada,No,2016-04-03 00:00:00,94258,2016-04-05 20:45:07,2016,2016,April,April,7,1
+2016-03-08 18:45:38,Lada_Kalina_119,privat,Offer,900,test,kleinwagen,2008,manuell,86,kalina,125000,Sep,Lpg,lada,No,2016-03-08 00:00:00,98704,2016-03-16 00:44:24,2016,2016,March,March,8,3

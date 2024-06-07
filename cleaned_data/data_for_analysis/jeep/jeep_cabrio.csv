@@ -1,0 +1,3 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,yearsOld,monthsOld
+2016-03-16 04:36:23,Grand_cherokee__LPG,privat,Offer,0,control,cabrio,1994,automatik,184,grand,150000,May,,jeep,Other,2016-03-16 00:00:00,32758,2016-04-06 01:44:33,2016,2016,March,March,22,7
+2016-03-07 12:46:26,Jeep_Grand_Cherokee_5.2_Liter_V8,privat,Offer,2700,test,cabrio,1997,automatik,212,Other,150000,Apr,,jeep,Yes,2016-03-07 00:00:00,37213,2016-03-12 22:17:20,2016,2016,March,March,19,8

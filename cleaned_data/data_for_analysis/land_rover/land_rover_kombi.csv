@@ -1,0 +1,4 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,yearsOld,monthsOld
+2016-03-30 11:39:08,Landrover__LARO,privat,Offer,3800,test,kombi,1978,manuell,0,serie_1,30000,Jan,Diesel,land_rover,Other,2016-03-30 00:00:00,49824,2016-03-30 11:39:08,2016,2016,March,March,38,11
+2016-03-26 18:45:08,Audi_a4_b5_avant,privat,Offer,1550,test,kombi,1996,automatik,125,Other,150000,Oct,Gasoline,land_rover,No,2016-03-26 00:00:00,24146,2016-04-06 07:45:53,2016,2016,March,March,20,2
+2016-03-19 17:47:41,FORD_MONDEO_Turnier_mk3,privat,Offer,3000,control,kombi,2004,manuell,131,Other,150000,Jun,Diesel,land_rover,Other,2016-03-19 00:00:00,88529,2016-04-07 04:44:34,2016,2016,March,March,12,6

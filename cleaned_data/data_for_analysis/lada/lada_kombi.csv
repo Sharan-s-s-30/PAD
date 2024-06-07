@@ -1,0 +1,17 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,yearsOld,monthsOld
+2016-04-01 01:37:13,Auto_Lada_111,privat,Offer,450,control,kombi,2000,Unspecified,0,Other,125000,Dec,Gasoline,lada,Other,2016-04-01 00:00:00,80939,2016-04-07 03:17:12,2016,2016,April,April,16,0
+2016-03-10 16:56:22,"Lada_Lada_2111_16V_""GTe""",privat,Offer,700,control,kombi,2004,manuell,91,andere,70000,Jul,Gasoline,lada,No,2016-03-10 00:00:00,13507,2016-03-12 21:46:29,2016,2016,March,March,12,5
+2016-03-17 22:37:24,LADA111__LPG_:Gas,privat,Offer,0,test,kombi,2007,manuell,0,samara,125000,Aug,Gasoline,lada,Other,2016-03-17 00:00:00,48165,2016-03-18 02:42:08,2016,2016,March,March,9,4
+2016-03-29 12:51:54,Lada_111_Kombi_1_5_Li_mit_Anhaengerkupplung_TÜV_04/2017,privat,Offer,550,test,kombi,2002,manuell,77,andere,60000,Aug,Gasoline,lada,No,2016-03-29 00:00:00,93104,2016-04-05 22:17:00,2016,2016,March,March,14,4
+2016-03-10 15:55:11,"Lada_2111_16V_""GTe""_KLIMA_""",privat,Offer,700,test,kombi,2004,manuell,91,andere,70000,Jul,Gasoline,lada,No,2016-03-10 00:00:00,13509,2016-03-12 21:15:38,2016,2016,March,March,12,5
+2016-03-28 10:52:05,Lada_Priora_1_6_LPG,privat,Offer,2850,control,kombi,2011,automatik,98,andere,90000,Aug,Lpg,lada,No,2016-03-28 00:00:00,12629,2016-03-28 10:52:05,2016,2016,March,March,5,4
+2016-03-19 21:51:35,Lada_Kalina,privat,Offer,2500,control,kombi,2008,manuell,82,kalina,60000,Aug,Gasoline,lada,No,2016-03-19 00:00:00,1309,2016-04-01 16:18:44,2016,2016,March,March,8,4
+2016-03-08 16:06:22,Lada_Niva_extra_long,privat,Offer,4900,control,kombi,2007,manuell,81,niva,125000,Nov,Lpg,lada,No,2016-03-08 00:00:00,56355,2016-04-05 02:15:47,2016,2016,March,March,9,1
+2016-03-20 00:56:02,LADA_2111__LPG_:Gas,privat,Offer,650,control,kombi,2007,manuell,0,samara,125000,Aug,Gasoline,lada,Other,2016-03-20 00:00:00,48165,2016-03-21 10:16:44,2016,2016,March,March,9,4
+2016-03-28 20:48:12,Lada_1200,privat,Offer,999,control,kombi,1978,manuell,60,andere,150000,Mar,Gasoline,lada,No,2016-03-28 00:00:00,95100,2016-03-30 12:47:29,2016,2016,March,March,38,9
+2016-03-08 15:48:27,Lada_111_Kombi_1_5_GTE_16V_TÜV_1/2017_Top_gepflegt_Baujahr_2002,privat,Offer,600,test,kombi,2002,manuell,91,andere,100000,Jan,Gasoline,lada,No,2016-03-08 00:00:00,73733,2016-03-12 13:17:30,2016,2016,March,March,14,11
+2016-04-01 21:43:30,Lpg__lada_111_Kombi__TÜV_4/17,privat,Offer,1399,test,kombi,2006,manuell,88,Other,90000,May,Lpg,lada,Other,2016-04-01 00:00:00,67728,2016-04-05 19:16:15,2016,2016,April,April,10,7
+2016-03-15 09:37:21,Lada_Lada_2111_16V,privat,Offer,600,control,kombi,2005,manuell,90,andere,80000,Jun,Gasoline,lada,No,2016-03-15 00:00:00,67661,2016-04-05 19:18:13,2016,2016,March,March,11,6
+2016-03-30 13:37:49,Lada_2102_Kombi_mit_Gasanlage,privat,Offer,0,test,kombi,1976,Unspecified,0,andere,150000,Jan,Gasoline,lada,No,2016-03-30 00:00:00,68309,2016-04-07 04:15:32,2016,2016,March,March,40,11
+2016-03-30 20:54:10,Lada_2102_DDR_Erstzulassung_1973,privat,Offer,750,control,kombi,1973,manuell,60,Other,125000,May,Gasoline,lada,Yes,2016-03-30 00:00:00,13088,2016-04-07 13:50:00,2016,2016,March,March,43,7
+2016-03-31 19:38:55,Lada_Priora_1_6_LPG,privat,Offer,2800,control,kombi,2011,manuell,0,andere,90000,Nov,Lpg,lada,No,2016-03-31 00:00:00,12627,2016-04-02 15:16:20,2016,2016,March,March,5,1

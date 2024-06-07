@@ -1,0 +1,3 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,yearsOld,monthsOld
+2016-03-22 11:58:23,Lada_Priora,privat,Offer,2850,control,andere,2011,manuell,0,andere,90000,Aug,Lpg,lada,No,2016-03-22 00:00:00,12629,2016-03-28 01:17:39,2016,2016,March,March,5,4
+2016-03-11 23:54:13,lada_2111_gutez_avto,privat,Offer,5000,test,andere,2013,manuell,100,andere,50000,Dec,Gasoline,lada,No,2016-03-11 00:00:00,3048,2016-04-05 17:22:14,2016,2016,March,March,3,0

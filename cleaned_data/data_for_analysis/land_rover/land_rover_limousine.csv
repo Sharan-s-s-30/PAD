@@ -1,0 +1,3 @@
+dateCrawled,name,seller,offerType,price,abtest,vehicleType,yearOfRegistration,gearbox,powerPS,model,kilometer,monthOfRegistration,fuelType,brand,notRepairedDamage,dateCreated,postalCode,lastSeen,yearOfCreation,yearCrawled,monthOfCreation,monthCrawled,yearsOld,monthsOld
+2016-03-12 11:50:21,Ich_verkaufe_die_auto_von_meine_opa._Land_Rover_RT_2_0_tdi,privat,Offer,1200,test,limousine,1998,manuell,77,andere,100000,Apr,Diesel,land_rover,No,2016-03-12 00:00:00,89250,2016-03-20 09:49:40,2016,2016,March,March,18,8
+2016-03-20 20:37:02,Rover_Limousine_Automatik,privat,Offer,550,test,limousine,1997,automatik,110,andere,150000,Nov,Gasoline,land_rover,Other,2016-03-20 00:00:00,78333,2016-03-22 01:16:28,2016,2016,March,March,19,1
