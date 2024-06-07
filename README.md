@@ -1,6 +1,6 @@
-Done
+Done:
 Data cleaning
 
-In Progress
+In Progress:
 Analysis
 Modelling
