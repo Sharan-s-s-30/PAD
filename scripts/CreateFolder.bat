@@ -1,41 +1,41 @@
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\volkswagen
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\audi
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\jeep
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\skoda
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\bmw
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\peugeot
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\mazda
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\nissan
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\ford
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\renault
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\mercedes_benz
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\seat
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\honda
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\fiat
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\opel
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\mini
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\smart
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\hyundai
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\sonstige_autos
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\alfa_romeo
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\subaru
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\volvo
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\mitsubishi
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\kia
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\suzuki
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\lancia
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\citroen
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\toyota
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\chevrolet
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\dacia
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\daihatsu
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\trabant
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\saab
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\chrysler
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\jaguar
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\daewoo
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\porsche
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\rover
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\land_rover
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis\lada
-mkdir c:\Users\LEGION\pad_project_s31061\cleaned_data\data_for_analysis
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/volkswagen
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/audi
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/jeep
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/skoda
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/bmw
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/peugeot
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/mazda
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/nissan
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/ford
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/renault
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/mercedes_benz
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/seat
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/honda
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/fiat
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/opel
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/mini
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/smart
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/hyundai
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/sonstige_autos
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/alfa_romeo
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/subaru
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/volvo
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/mitsubishi
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/kia
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/suzuki
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/lancia
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/citroen
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/toyota
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/chevrolet
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/dacia
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/daihatsu
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/trabant
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/saab
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/chrysler
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/jaguar
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/daewoo
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/porsche
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/rover
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/land_rover
+mkdirc:\Users\LEGION\pad_project_s31061\/cleaned_data/lada
+mkdir -p c:\Users\LEGION\pad_project_s31061\/cleaned_data/
